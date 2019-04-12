@@ -1,0 +1,12 @@
+:root{
+    --red-color:#FF3D00;
+    --primary-color: #1C1B1B;
+    --white-color: #F2F2F2;
+}
+
+body{
+    font-family: 'Chivo', sans-serif;
+    font-size: 96px;
+    background-color: var( --primary-color);
+    color: var(--white-color);
+}
